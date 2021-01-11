@@ -9,6 +9,7 @@
 .history
 .svn/
 .env
+client_requirements.txt
 
 # IntelliJ related
 *.iml
